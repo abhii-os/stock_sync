@@ -1,0 +1,58 @@
+{
+  "suppliers": [
+    {
+      "id": "2",
+      "name": "Publishing House Co.",
+      "contactInfo": "sales@publishco.com",
+      "address": "456 Book Street, New York, NY"
+    },
+    {
+      "id": "3",
+      "name": "Fashion Forward Ltd.",
+      "contactInfo": "support@fashionltd.com",
+      "address": "789 Style Road, Los Angeles, CA"
+    },
+    {
+      "name": "lsg",
+      "contactInfo": "2525",
+      "address": "cnghn",
+      "id": "1ae5"
+    },
+    {
+      "name": "fdsg",
+      "contactInfo": "7e567",
+      "address": "sfgs",
+      "id": "g03uHG6"
+    },
+    {
+      "name": "fgs",
+      "contactInfo": "455",
+      "address": "fdgs",
+      "id": "5"
+    },
+    {
+      "name": "wef",
+      "contactInfo": "sdf",
+      "address": "sdaf",
+      "id": "1758829161621-151"
+    },
+    {
+      "name": "Tea maker",
+      "contactInfo": "7763844115",
+      "address": "Udaipur Rajsthan",
+      "id": "1759202801688-669"
+    },
+    {
+      "name": "Tata Comp.",
+      "contactInfo": "7763844115",
+      "address": "Pune Maharasta",
+      "id": "1759205954702-607"
+    },
+    {
+      "name": "Done",
+      "contactInfo": "124",
+      "address": "all done",
+      "id": "1759464631473-521"
+    }
+  ]
+}

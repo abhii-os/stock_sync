@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "dwivedi@gmail.com",
+      "password": "12345",
+      "phoneNumber": "123-456-7890",
+      "role": "ADMIN"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "password": "password123",
+      "phoneNumber": "098-765-4321",
+      "role": "USER"
+    },
+    {
+      "id": "3",
+      "name": "Manager Mike",
+      "email": "manager@example.com",
+      "password": "managerpassword",
+      "phoneNumber": "555-555-5555",
+      "role": "MANAGER"
+    },
+    {
+      "name": "vishu",
+      "email": "ayush@gmail.com",
+      "password": "12345",
+      "phoneNumber": "23424",
+      "role": "MANAGER",
+      "id": "6oq971o"
+    },
+    {
+      "name": "dasf",
+      "email": "tapesh@gmail.com",
+      "password": "12345",
+      "phoneNumber": "324234",
+      "role": "MANAGER",
+      "id": "QMokeCD"
+    },
+    {
+      "name": "dasf",
+      "email": "tapesh@gmail.com",
+      "password": "12345",
+      "phoneNumber": "324234",
+      "role": "MANAGER",
+      "id": "Bogi9X1"
+    },
+    {
+      "name": "Vishal",
+      "email": "Vishal@gmail.com",
+      "password": "12345",
+      "phoneNumber": "65656",
+      "role": "MANAGER",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "New Manager Name",
+      "email": "new.manager@example.com",
+      "password": "a-strong-password",
+      "phoneNumber": "123-456-7890",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758731162289-37",
+      "name": "asdfas",
+      "email": "vinayak@gmail.com",
+      "password": "hashed_12345_1758731162289",
+      "phoneNumber": "",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758731180607-975",
+      "name": "asdfas",
+      "email": "vinayaka@gmail.com",
+      "password": "hashed_12345_1758731180607",
+      "phoneNumber": "9546521569",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758731994693-432",
+      "name": "sdf",
+      "email": "Vishsal@gmail.com",
+      "password": "hashed_12345_1758731994693",
+      "phoneNumber": "98564633683",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758733820558-565",
+      "name": "asdfasd",
+      "email": "himanshu@gmail.com",
+      "password": "hashed_12345_1758733820558",
+      "phoneNumber": "9919039928",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758733935228-764",
+      "name": "sdfas",
+      "email": "himanshus@gmail.com",
+      "password": "hashed_99190399_1758733935228",
+      "phoneNumber": "9919039928",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758739245154-509",
+      "name": "asdfa",
+      "email": "dfasdf@gmail.com",
+      "password": "hashed_12345_1758739245154",
+      "phoneNumber": "32432545534",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758817903210-754",
+      "name": "asdfasd",
+      "email": "dwivedi@gmasd",
+      "password": "hashed_12345_1758817903210",
+      "phoneNumber": "9853654287",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758818084038-182",
+      "name": "fsdg",
+      "email": "asdf@gmail.com",
+      "password": "hashed_sdfgs_1758818084039",
+      "phoneNumber": "9586575853",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758822233878-819",
+      "name": "fvee",
+      "email": "dwivreedi@gmail.com",
+      "password": "hashed_12345_1758822233878",
+      "phoneNumber": "9586521486",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758826917919-224",
+      "name": "fsdg",
+      "email": "fdsg",
+      "password": "hashed_dfds_1758826917919",
+      "phoneNumber": "9586575853",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758827932625-665",
+      "name": "fsdg",
+      "email": "fdsdsg",
+      "password": "hashed_dfdfsas_1758827932625",
+      "phoneNumber": "9586575853",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758828902139-930",
+      "name": "sdf",
+      "email": "dfassdfdf@gmail.com",
+      "password": "hashed_12345_1758828902139",
+      "phoneNumber": "3543534544",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758856955689-582",
+      "name": "Abhinavv",
+      "email": "sinhadon@gmail.com",
+      "password": "hashed_12345_1758856955689",
+      "phoneNumber": "8423111666",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1758873510718-164",
+      "name": "pawar",
+      "email": "pawar@gmail.com",
+      "password": "hashed_12345_1758873510719",
+      "phoneNumber": "9878736473",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1759251036792-236",
+      "name": "Abhinav",
+      "email": "abhinav@gmail.com",
+      "password": "hashed_12345_1759251036793",
+      "phoneNumber": "9876543210",
+      "role": "MANAGER"
+    },
+    {
+      "id": "1759410377445-7",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "password": "hashed_SecurePass123_1759410377445",
+      "phoneNumber": "9876543210",
+      "role": "MANAGER"
+    }
+  ]
+}

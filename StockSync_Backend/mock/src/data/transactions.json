@@ -1,0 +1,203 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "transactionType": "PURCHASE",
+      "status": "PROCESSING",
+      "description": "Weekly restock of mice.",
+      "note": "Invoice #INV-2025-001",
+      "totalProducts": 5,
+      "totalPrice": 129.95,
+      "createdAt": "2025-09-02T10:30:00Z",
+      "updatedAt": "2025-09-03T11:00:00Z",
+      "product": {
+        "id": 101,
+        "name": "Wireless Mouse",
+        "price": 25.99
+      },
+      "user": {
+        "id": 1,
+        "name": "Admin User"
+      },
+      "supplier": {
+        "id": 1,
+        "name": "Electro World Inc."
+      }
+    },
+    {
+      "id": "2",
+      "transactionType": "SELL",
+      "status": "COMPLETED",
+      "description": "Customer sale of book.",
+      "note": "Receipt #RCPT-2025-001",
+      "totalProducts": 1,
+      "totalPrice": 39.95,
+      "createdAt": "2025-09-05T14:00:00Z",
+      "updatedAt": "2025-09-05T14:05:00Z",
+      "product": {
+        "id": 102,
+        "name": "React for Beginners",
+        "price": 39.95
+      },
+      "user": {
+        "id": 2,
+        "name": "Jane Doe"
+      },
+      "supplier": null
+    },
+    {
+      "id": "3",
+      "transactionType": "SELL",
+      "status": "COMPLETED",
+      "product": {
+        "id": "103",
+        "name": "Men's T-Shirt",
+        "sku": "TS-303-BLU",
+        "price": 19.99,
+        "stockQuantity": 200,
+        "categoryId": 3,
+        "description": "100% cotton t-shirt.",
+        "imageUrl": "https://placehold.co/600x400/EEE/31343C?text=T-Shirt"
+      },
+      "user": {
+        "id": "1",
+        "name": "Admin User",
+        "email": "dwivedi@gmail.com",
+        "phoneNumber": "123-456-7890",
+        "role": "ADMIN"
+      },
+      "supplier": null,
+      "totalProducts": 1,
+      "totalPrice": 19.99,
+      "createdAt": "2025-09-20T22:48:00.976Z",
+      "description": "sdg",
+      "note": "sfdg"
+    },
+    {
+      "id": "1759439062268-671",
+      "transactionType": "PURCHASE",
+      "status": "COMPLETED",
+      "product": {
+        "id": "103",
+        "name": "Men's T-Shirt",
+        "sku": "TS-303-BLU",
+        "price": 19.99,
+        "stockQuantity": 239,
+        "categoryId": 3,
+        "description": "100% cotton t-shirt.",
+        "imageUrl": "https://placehold.co/400x400/EEE/31343C?text=T-Shirt",
+        "category": "Clothing"
+      },
+      "user": {
+        "id": "1",
+        "name": "Admin User",
+        "email": "dwivedi@gmail.com",
+        "phoneNumber": "123-456-7890",
+        "role": "ADMIN"
+      },
+      "supplier": {
+        "id": "2",
+        "name": "Publishing House Co.",
+        "contactInfo": "sales@publishco.com",
+        "address": "456 Book Street, New York, NY"
+      },
+      "totalProducts": 5,
+      "totalPrice": 99.94999999999999,
+      "createdAt": "2025-10-02T21:04:22.269Z",
+      "description": "dsfsa",
+      "note": "adfad"
+    },
+    {
+      "id": "1759439331883-961",
+      "transactionType": "SELL",
+      "status": "COMPLETED",
+      "product": {
+        "id": "103",
+        "name": "Men's T-Shirt",
+        "sku": "TS-303-BLU",
+        "price": 19.99,
+        "stockQuantity": 239,
+        "categoryId": 3,
+        "description": "100% cotton t-shirt.",
+        "imageUrl": "https://placehold.co/400x400/EEE/31343C?text=T-Shirt",
+        "category": "Clothing"
+      },
+      "user": {
+        "id": "1",
+        "name": "Admin User",
+        "email": "dwivedi@gmail.com",
+        "phoneNumber": "123-456-7890",
+        "role": "ADMIN"
+      },
+      "supplier": null,
+      "totalProducts": 4,
+      "totalPrice": 79.96,
+      "createdAt": "2025-10-02T21:08:51.883Z",
+      "description": "dobe",
+      "note": "did"
+    },
+    {
+      "id": "1759466165246-854",
+      "transactionType": "SELL",
+      "status": "COMPLETED",
+      "product": {
+        "id": "103",
+        "name": "Men's T-Shirt",
+        "sku": "TS-303-BLU",
+        "price": 19.99,
+        "stockQuantity": 239,
+        "categoryId": 3,
+        "description": "100% cotton t-shirt.",
+        "imageUrl": "https://placehold.co/400x400/EEE/31343C?text=T-Shirt",
+        "category": "Clothing"
+      },
+      "user": {
+        "id": "1",
+        "name": "Admin User",
+        "email": "dwivedi@gmail.com",
+        "phoneNumber": "123-456-7890",
+        "role": "ADMIN"
+      },
+      "supplier": null,
+      "totalProducts": 49,
+      "totalPrice": 979.5099999999999,
+      "createdAt": "2025-10-03T04:36:05.246Z",
+      "description": "Good Discount",
+      "note": "Paid"
+    },
+    {
+      "id": "1759466238239-168",
+      "transactionType": "PURCHASE",
+      "status": "COMPLETED",
+      "product": {
+        "id": "103",
+        "name": "Men's T-Shirt",
+        "sku": "TS-303-BLU",
+        "price": 19.99,
+        "stockQuantity": 239,
+        "categoryId": 3,
+        "description": "100% cotton t-shirt.",
+        "imageUrl": "https://placehold.co/400x400/EEE/31343C?text=T-Shirt",
+        "category": "Clothing"
+      },
+      "user": {
+        "id": "1",
+        "name": "Admin User",
+        "email": "dwivedi@gmail.com",
+        "phoneNumber": "123-456-7890",
+        "role": "ADMIN"
+      },
+      "supplier": {
+        "id": "3",
+        "name": "Fashion Forward Ltd.",
+        "contactInfo": "support@fashionltd.com",
+        "address": "789 Style Road, Los Angeles, CA"
+      },
+      "totalProducts": 44,
+      "totalPrice": 879.56,
+      "createdAt": "2025-10-03T04:37:18.239Z",
+      "description": "Good Product",
+      "note": "All Done"
+    }
+  ]
+}
